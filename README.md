@@ -9,7 +9,7 @@ MOAE is an AI-powered system that automates developer workflows across tools lik
 The following diagram shows how a user request flows through the Planner, Executor, and Verifier agents, and how the system interacts with external tools.
 
 <p align="center">
-  <img src="./assests/Phase1.png" alt="System Architecture" width="700"/>
+  <img src="./assests/Phase1.jpeg" alt="System Architecture" width="700"/>
 </p>
 
 ---
@@ -23,11 +23,11 @@ The dashboard shows user input, execution flow, and real-time updates.
 </p>
 
 <p align="center">
-  <img src="./assests/queryExecution.png" width="700"/>
+  <img src="./assests/workflow.png" width="700"/>
 </p>
 
 <p align="center">
-  <img src="./assests/workflow.png" width="700"/>
+  <img src="./assests/score.png" width="700"/>
 </p>
 
 ---
