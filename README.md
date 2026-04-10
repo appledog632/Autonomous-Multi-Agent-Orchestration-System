@@ -9,7 +9,7 @@ MOAE is an AI-powered system that automates developer workflows across tools lik
 The following diagram shows how a user request flows through the Planner, Executor, and Verifier agents, and how the system interacts with external tools.
 
 <p align="center">
-  <img src="./assests/workflow.png" alt="System Architecture" width="700"/>
+  <img src="./assests/Phase1.png" alt="System Architecture" width="700"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ The system operates through three core agents working together:
 
 ## 🛠️ Tech Stack  
 - **Backend**: Spring Boot (Java)  
-- **Frontend**: React  
+- **Frontend**: React , TailwindCSS
 - **AI Models**: Mistral 7B
 - **APIs**: GitHub, Jira, Slack  
 
